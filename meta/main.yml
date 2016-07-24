@@ -12,17 +12,17 @@ galaxy_info:
   #
   platforms:
   - name: EL
-  #  versions:
-  #  - all
+     versions:
+     - all
   #  - 5
   #  - 6
-     - 7
+  #  - 7
   #- name: GenericUNIX
   #  versions:
   #  - all
   #  - any
    - name: Fedora
-  #  versions:
+     versions:
      - all
   #  - 16
   #  - 17
