@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Joe Rounceville <jrounceville@hotmail.com>
-  description: 
+  description: s3fs role for yum-based distros
   company: N/A
   license: Apache v2
   min_ansible_version: 1.2
